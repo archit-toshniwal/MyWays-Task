@@ -1,1 +1,11 @@
 
+packages used in backend 
+
+express
+mongoose
+bcrypt
+jsonwebtoken
+cookie-parser
+nodemon
+joi
+dotenv
